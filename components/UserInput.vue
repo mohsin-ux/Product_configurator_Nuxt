@@ -7,6 +7,7 @@
       placeholder="Nach Produktlinie suchen"
       type="text"
     />
-    <SearchBlack class="absolute right-3 top-2" />
+    <IconsSearchBlack class="absolute right-3 top-2" />
   </div>
 </template>
+x
