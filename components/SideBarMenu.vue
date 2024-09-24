@@ -19,9 +19,9 @@ const products = [
 </script>
 
 <template>
-  <div class="p-5 bg-Beige rounded-t-3xl w-full pb-12 bg-kitchenz" :class="{ hidden: !showMenu }">
+  <div class="p-5   max-sm:rounded-t-3xl w-full pb-12 bg-kitchenz sm:w-72" :class="{ 'max-sm:hidden': !showMenu }">
     <div class="flex justify-center">
-      <span class="w-10 h-1 bg-dark_grey rounded items-center"></span>
+      <span class="w-10 h-1 bg-dark_grey rounded items-center sm:hidden"></span>
     </div>
 
     <div

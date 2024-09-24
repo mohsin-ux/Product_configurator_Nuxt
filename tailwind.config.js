@@ -18,6 +18,7 @@ module.exports = {
       white: "#ffffff",
       grey_text: "#7A7A7A",
       Beige_Dark: "#DEDAD4",
+      main: "#B6B6B6",
     },
     extend: {},
   },

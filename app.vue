@@ -7,9 +7,6 @@ onMounted(() => {
 </script>
 
 <template>
-  <!-- <div id="app">
-    <Frontends template="Blank Vue 3 template (Nuxt)" />
-  </div> -->
   <NuxtLayout>
     <NuxtPage/>
   </NuxtLayout>
